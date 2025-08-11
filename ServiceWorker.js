@@ -1,9 +1,9 @@
 const cacheName = "iRex Studio-Aadhya WebXR-0.1.0";
 const contentToCache = [
-    "Build/Build2.loader.js",
-    "Build/Build2.framework.js",
-    "Build/Build2.data",
-    "Build/Build2.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
